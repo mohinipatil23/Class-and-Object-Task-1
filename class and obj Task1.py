@@ -2,7 +2,7 @@ class Employee:
     name="Mohini"
     salary="35000"
     phone="7744943700"
-    email="arjun@gmail.com"
+    email="mohini@gmail.com"
     
     def display_detail():
         print("Name of Emp:",Employee.name)
